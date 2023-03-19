@@ -4,7 +4,7 @@
 /**
  *main - print the last digitof the random generated number
  *
- *Return - Always 0 (success)
+ *Return: Always 0 (success)
  */
 int main(void)
 {
