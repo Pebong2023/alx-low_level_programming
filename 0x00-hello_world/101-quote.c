@@ -11,6 +11,6 @@
 
 int main(void)
 {
-	write(2, "and the piece of art is useful" - Dora Korpar, 2015-10-19, \n", 59);
+f:puts("and the piece of art is useful\" - Dora Korpar, 2015-10-19\n", stdout);
 	return (1);
 }
