@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-*main - test function fors positive or negative
+*main - test function of integers of  positive or negative
 *Return: 0
 */
 int main(void)
